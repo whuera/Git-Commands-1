@@ -70,3 +70,13 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Delete branch local & remote
+example branch: qa
+| Command | Description |
+| ------- | ----------- |
+| `git branch -d qa` | delete local |
+| `git push origin --delete qa` | delete remote |
+
+ 
+
