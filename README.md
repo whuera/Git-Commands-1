@@ -89,8 +89,9 @@ class DemoApplication
   void calculeNumberPrimo()
  }
  DemoApplication <|-- Main
+ 
 @enduml
-
 ```
+ ![class diagram](http://www.plantuml.com/plantuml/umla/SoWkIImgAStDuU9ApaaiBbPmIStDTomeoCbCJYp9pC_ZubA0YFicPkOfL7CfA9JbPwOe92Vc99VcfFgLvYQb5WKKPURcQsXoATHoeMjNiAdHrGNhvN98pKi1sWC0)
  
 
