@@ -78,5 +78,22 @@ example branch: qa
 | `git branch -d qa` | delete local |
 | `git push origin --delete qa` | delete remote |
 
+### Call diagram class
+
+```
+@startuml
+
+@startuml
+
+class DemoApplication
+
+ class Main {
+  void calculeNumberPrimo()
+ }
+ DemoApplication <|-- Main
+@enduml
+
+@enduml
+```
  
 
