@@ -83,8 +83,6 @@ example branch: qa
 ```
 @startuml
 
-@startuml
-
 class DemoApplication
 
  class Main {
@@ -93,7 +91,6 @@ class DemoApplication
  DemoApplication <|-- Main
 @enduml
 
-@enduml
 ```
  
 
