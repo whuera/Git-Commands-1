@@ -80,7 +80,7 @@ example branch: qa
 
 ### Call diagram class
 
-```
+```plantuml
 @startuml
 
 class DemoApplication
